@@ -39,4 +39,7 @@ Click the button above to view the **live running website** hosted with GitHub P
 
 ---
 
+[![View New Project](https://img.shields.io/badge/VIEW%20NEW%20PROJECT-CLICK%20HERE-orange?style=for-the-badge)](https://SDP42.github.io/Personal_Portfolio/newproject.html)
+
+
 
