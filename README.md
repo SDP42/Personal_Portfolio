@@ -3,8 +3,7 @@
 
 Just for some personal work — a simple and responsive portfolio website showcasing my work, skills, and contact information.
 
-[![View Live Demo](https://img.shields.io/badge/VIEW%20LIVE%20DEMO-CLICK%20HERE-blue?style=for-the-badge)](https://SDP42.github.io/Personal_Portfolio/)
-
+[![View New Project](https://img.shields.io/badge/VIEW%20NEW%20PROJECT-CLICK%20HERE-orange?style=for-the-badge)](https://SDP42.github.io/Personal_Portfolio/newproject.html)
 ---
 
 ## 📌 About the Project
@@ -26,11 +25,6 @@ The purpose of this project is to practice front-end development and create a pr
 
 ---
 
-## 🚀 Live Demo
-Click the button above to view the **live running website** hosted with GitHub Pages.  
-**URL:** [https://SDP42.github.io/Personal_Portfolio/](https://SDP42.github.io/Personal_Portfolio/)
-
----
 
 ## 🛠️ Technologies Used
 - **HTML5**
@@ -39,7 +33,6 @@ Click the button above to view the **live running website** hosted with GitHub P
 
 ---
 
-[![View New Project](https://img.shields.io/badge/VIEW%20NEW%20PROJECT-CLICK%20HERE-orange?style=for-the-badge)](https://SDP42.github.io/Personal_Portfolio/newproject.html)
 
 
 
